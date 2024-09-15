@@ -1,4 +1,4 @@
 # About-Me
 www.codewitharafat.com
 
-<p><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Gif" width="500px"/></p>
+<p><img src="https://github.com/arafdewann/About-Me/blob/main/Araf.jpg" alt="MD ARAFAT KOYES" width="100px"/></p>
